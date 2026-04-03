@@ -17,7 +17,7 @@ p {
 }
 
 a {
-    color: purple;
+    color: #ff00ff;
 }
 
 .linkContainer {
@@ -43,7 +43,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: purple;
+    color: #ff00ff;
     font-size: 1rem;
     font-weight: 500;
     padding-bottom: 2px;
@@ -52,7 +52,7 @@ nav a {
 }
 
 nav a:hover {
-    border-color: purple;
+    border-color: #ff00ff;
 }
 
 /* Responsive design for phones */
