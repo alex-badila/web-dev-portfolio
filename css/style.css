@@ -77,3 +77,19 @@ nav a:hover {
         grid-template-columns: repeat(3, 1fr);
     }
 }
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.submitButton {
+    display: block;
+    width: 150px;
+}
+
+.message {
+    display: block;
+    height: 300px;
+    width: 500px;
+}
