@@ -95,3 +95,8 @@ nav a:hover {
     max-width: 500px;
     box-sizing: border-box;
 }
+
+.logo {
+    height: 60px;
+    width: auto;
+}
